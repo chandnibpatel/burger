@@ -17,8 +17,9 @@ img{
 .row{
    color: yellow;
 }
-#eat{
-    color: olivedrab
+#eat,#eaten{
+    color: yellow;
+    font-weight: bold;
 }
 .devour-it,.addBurger{
     background-image: linear-gradient(to right,red,orange,black); 
